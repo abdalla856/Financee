@@ -21,7 +21,11 @@
     "react-redux": "^8.1.1",
     "react-router-dom": "^6.14.2",
     "recharts": "^2.7.3",
-    "regression": "^2.0.1"
+    "regression": "^2.0.1",
+    "vite": "^4.4.5",
+    "@vitejs/plugin-react": "^4.0.3"
+
+
   },
   "devDependencies": {
     "@types/node": "^20.4.5",
@@ -30,12 +34,10 @@
     "@types/regression": "^2.0.2",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
-    "@vitejs/plugin-react": "^4.0.3",
     "eslint": "^8.46.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "typescript": "^5.0.2"
   }
 }
